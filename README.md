@@ -5,24 +5,24 @@
 
 ###  jar 包激活 推荐 
 >想要永久激活2019 jebrains系列 请下载压缩包 教程都在压缩包里面 https://u18744103.ctfile.com/fs/18744103-388155046
-2019.2最新激活 https://545c.com/file/18744103-399875015
-2019.2.4 最新激活教程 https://545c.com/file/18744103-409806662
-2019.3 最新激活教程 https://545c.com/file/18744103-410586877
-2019.3.1 最新激活教程 https://545c.com/file/18744103-414773569
-2019.3.1最新 https://545c.com/file/18744103-416120397
+- 2019.2最新激活 https://545c.com/file/18744103-399875015
+- 2019.2.4 最新激活教程 https://545c.com/file/18744103-409806662
+- 2019.3 最新激活教程 https://545c.com/file/18744103-410586877
+- 2019.3.1 最新激活教程 https://545c.com/file/18744103-414773569
+- 2019.3.1最新 https://545c.com/file/18744103-416120397
 
 ### 激活码
 >永久激活码 点击链接  https://545c.com/file/18744103-406652871
-永久激活码20191204更新 https://545c.com/file/18744103-411147573
-永久激活码20191227更新 https://545c.com/file/18744103-415276627
-激活码 2020-01-10 更新 https://545c.com/file/18744103-416965138
-激活码 2020-01-12更新 https://545c.com/file/18744103-417224917
+- 永久激活码20191204更新 https://545c.com/file/18744103-411147573
+- 永久激活码20191227更新 https://545c.com/file/18744103-415276627
+- 激活码 2020-01-10 更新 https://545c.com/file/18744103-416965138
+- 激活码 2020-01-12更新 https://545c.com/file/18744103-417224917
 
 - 1.下载安装软件,去官网下载 http://www.jetbrains.com/products.html?fromMenu
->webStrom  2019.3.0(内部包含激活jar包) [https://545c.com/file/18744103-416966381](https://545c.com/file/18744103-416966381)
-phpStorm 2019.3(内部包含激活jar包) https://545c.com/file/18744103-416967176
-idea 2019.3(内部包含激活jar包) https://545c.com/file/18744103-416967427
-pyCharm 2019.3(内部包含激活jar包)https://545c.com/file/18744103-416968120
+>- webStrom  2019.3.0(内部包含激活jar包) [https://545c.com/file/18744103-416966381](https://545c.com/file/18744103-416966381)
+- phpStorm  2019.3(内部包含激活jar包) https://545c.com/file/18744103-416967176
+- idea 2019.3(内部包含激活jar包) https://545c.com/file/18744103-416967427
+- pyCharm 2019.3(内部包含激活jar包)https://545c.com/file/18744103-416968120
 - 2.找到路径 
   - win ```C:\Windows\System32\drivers\etc ```
   - Linux和mac的hosts文件路径为：```/etc/hosts``` 
@@ -47,11 +47,11 @@ pyCharm 2019.3(内部包含激活jar包)https://545c.com/file/18744103-416968120
 ### 1.永久激活(以win为例/mac方法一样)
 - 1.下载jar包
 去我的百度网盘下载最新的jar包
-破解包下载地址 https://u18744103.pipipan.com/fs/18744103-388158585
-2019.2最新激活 https://545c.com/file/18744103-399875015
-2019.2.4 最新激活教程 https://545c.com/file/18744103-409806662
-2019.3 最新激活教程 https://545c.com/file/18744103-410586877
-2019.3.1 最新激活教程 https://545c.com/file/18744103-414773569
+- 破解包下载地址 https://u18744103.pipipan.com/fs/18744103-388158585
+- 2019.2最新激活 https://545c.com/file/18744103-399875015
+- 2019.2.4 最新激活教程 https://545c.com/file/18744103-409806662
+- 2019.3 最新激活教程 https://545c.com/file/18744103-410586877
+- 2019.3.1 最新激活教程 https://545c.com/file/18744103-414773569
 - 2.找到安装目录里面的bin> 然后把刚刚下载jar包放进去
 ![拷贝jar包](https://upload-images.jianshu.io/upload_images/1433350-cef63158086e04f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 - 3.修改这个目录`C:\Users\DELL\.WebStorm2019.3\config`下面的文件 `WebStorm.exe.vmoptions` 和`WebStorm64.exe.vmoptions`，这两个文件一个是32位的，一个是64位的，建议同步修改。
