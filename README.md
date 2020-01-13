@@ -54,6 +54,9 @@
 - 2019.3.1 最新激活教程 https://545c.com/file/18744103-414773569
 - 2.找到安装目录里面的bin> 然后把刚刚下载jar包放进去
 ![拷贝jar包](https://upload-images.jianshu.io/upload_images/1433350-cef63158086e04f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 2.1 打开隐藏文件夹 win10为例
+![查看->> 详细信息--> 隐藏项目](https://upload-images.jianshu.io/upload_images/1433350-587f0fedaf502817.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 - 3.修改这个目录`C:\Users\DELL\.WebStorm2019.3\config`下面的文件 `WebStorm.exe.vmoptions` 和`WebStorm64.exe.vmoptions`，这两个文件一个是32位的，一个是64位的，建议同步修改。
 ![](https://upload-images.jianshu.io/upload_images/1433350-b8b6b4fdf084c86a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > ps `C:\Users\DELL\.WebStorm2019.3\config`  DELL 是你的用户
