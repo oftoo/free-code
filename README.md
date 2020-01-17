@@ -4,24 +4,24 @@ github [https://github.com/wenyanjun/free-code](https://github.com/wenyanjun/fre
 > 交流QQ群 729987144
 ###  jar 包激活 推荐 
 >想要永久激活2019 jebrains系列 请下载压缩包 教程都在压缩包里面 https://u18744103.ctfile.com/fs/18744103-388155046
-2019.2最新激活 https://545c.com/file/18744103-399875015
-2019.2.4 最新激活教程 https://545c.com/file/18744103-409806662
-2019.3 最新激活教程 https://545c.com/file/18744103-410586877
-2019.3.1 最新激活教程 https://545c.com/file/18744103-414773569
-2019.3.1最新 https://545c.com/file/18744103-416120397
+>- 2019.2最新激活 https://545c.com/file/18744103-399875015
+>- 2019.2.4 最新激活教程 https://545c.com/file/18744103-409806662
+>- 2019.3 最新激活教程 https://545c.com/file/18744103-410586877
+>- 2019.3.1 最新激活教程 https://545c.com/file/18744103-414773569
+>- 2019.3.1最新 https://545c.com/file/18744103-416120397
 
 ### 激活码
->永久激活码 点击链接  https://545c.com/file/18744103-406652871
-永久激活码20191204更新 https://545c.com/file/18744103-411147573
-永久激活码20191227更新 https://545c.com/file/18744103-415276627
-激活码 2020-01-10 更新 https://545c.com/file/18744103-416965138
-激活码 2020-01-12更新 https://545c.com/file/18744103-417224917
+>- 永久激活码 点击链接  https://545c.com/file/18744103-406652871
+>- 永久激活码20191204更新 https://545c.com/file/18744103-411147573
+>- 永久激活码20191227更新 https://545c.com/file/18744103-415276627
+>- 激活码 2020-01-10 更新 https://545c.com/file/18744103-416965138
+>- 激活码 2020-01-12更新 https://545c.com/file/18744103-417224917
 
 - 1.下载安装软件,去官网下载 http://www.jetbrains.com/products.html?fromMenu
 >webStrom  2019.3.0(内部包含激活jar包) [https://545c.com/file/18744103-416966381](https://545c.com/file/18744103-416966381)
-phpStorm 2019.3(内部包含激活jar包) https://545c.com/file/18744103-416967176
-idea 2019.3(内部包含激活jar包) https://545c.com/file/18744103-416967427
-pyCharm 2019.3(内部包含激活jar包)https://545c.com/file/18744103-416968120
+>- phpStorm 2019.3(内部包含激活jar包) https://545c.com/file/18744103-416967176
+>- idea 2019.3(内部包含激活jar包) https://545c.com/file/18744103-416967427
+>- pyCharm 2019.3(内部包含激活jar包)https://545c.com/file/18744103-416968120
 - 2.找到路径 
   - win ```C:\Windows\System32\drivers\etc ```
   - Linux和mac的hosts文件路径为：```/etc/hosts``` 
@@ -46,14 +46,14 @@ pyCharm 2019.3(内部包含激活jar包)https://545c.com/file/18744103-416968120
 ### 1.永久激活(以win为例/mac方法一样)
 - 1.下载jar包
 去我的百度网盘下载最新的jar包
-破解包下载地址 https://u18744103.pipipan.com/fs/18744103-388158585
-2019.2最新激活 https://545c.com/file/18744103-399875015
-2019.2.4 最新激活教程 https://545c.com/file/18744103-409806662
-2019.3 最新激活教程 https://545c.com/file/18744103-410586877
-2019.3.1 最新激活教程 https://545c.com/file/18744103-414773569
+- 破解包下载地址 https://u18744103.pipipan.com/fs/18744103-388158585
+- 2019.2最新激活 https://545c.com/file/18744103-399875015
+- 2019.2.4 最新激活教程 https://545c.com/file/18744103-409806662
+- 2019.3 最新激活教程 https://545c.com/file/18744103-410586877
+- 2019.3.1 最新激活教程 https://545c.com/file/18744103-414773569
 
 ### 使用方法:
- 1. 先下载压缩包解压后得到jetbrains-agent.jar，把它放到你认为合适的文件夹内。
+ 1. 先下载压缩包解压后得到`jetbrains-agent.jar`，把它放到你认为合适的文件夹内。
  2. 启动你的IDE，如果上来就需要注册，选择：试用（Evaluate for free）进入IDE
  3. 点击你要注册的IDE菜单：`"Configure" 或 "Help" -> "Edit Custom VM Options ..."`
     如果提示是否要创建文件，请点"Yes"。
