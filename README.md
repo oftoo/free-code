@@ -55,9 +55,9 @@ github [https://github.com/wenyanjun/free-code](https://github.com/wenyanjun/fre
  6. 点击IDE菜单` "Help" -> "Register..." 或 "Configure" -> "Manage License..."`
 
 7.选择Activation code方式离线激活，请使用：`ACTIVATION_CODE.txt` 内的注册码激活
-![](https://upload-images.jianshu.io/upload_images/1433350-f2f29d99838b4057.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](./images/code.png)
 - 8.点击`active` 激活成功
-![](https://upload-images.jianshu.io/upload_images/1433350-39de1c3a4a148785.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](./images/success.png)
 
 激活码 2020-01-10 更新 https://545c.com/file/18744103-416965138
 - 9.或者使用我的激活码
