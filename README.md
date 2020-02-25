@@ -1,7 +1,8 @@
 >虽然webStorm,phpStorm以及jetbrains系列的很好用,但是每隔一段时间就需要激活一下,这样太费劲了,今天军哥给大家推荐一个永久激活的办法
 此教程适用于jetbrains 的所有系列的软件
 github [https://github.com/wenyanjun/free-code](https://github.com/wenyanjun/free-code)
-> 交流QQ群 729987144
+> QQ技术交流①群 729987144
+> QQ技术交流②群 272712006
 ###  jar 包激活 推荐 
 >想要永久激活2019 jebrains系列 请下载压缩包 教程都在压缩包里面 https://u18744103.ctfile.com/fs/18744103-388155046
 >- 2019.2最新激活 https://545c.com/file/18744103-399875015
@@ -73,7 +74,8 @@ YSU8RP0T0H-eyJsaWNlbnNlSWQiOiJZU1U4UlAwVDBIIiwibGljZW5zZWVOYW1lIjoid2VueWFuanVuI
 给个支持微信
 ![](images/wx1.png)
 
-> 交流QQ群 729987144
+> QQ技术交流①群 729987144
+> QQ技术交流②群 272712006
 > 简书coderYJ
 > 微信公众号coderYJ
 > 微博coderYJ
