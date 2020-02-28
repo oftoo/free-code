@@ -32,17 +32,17 @@
 - 1.下载jar包
 - 2019.3.3(拖动破解) https://545c.com/file/18744103-424973548
 ### 2使用方法(傻瓜式破解)
-1. 先下载压缩包解压后得到`jetbrains-agent.jar`，把它放到你认为合适的文件夹内。
-2. 启动你的IDE，如果上来就需要注册，选择：试用（Evaluate for free）进入IDE
+- 1. 先下载压缩包解压后得到`jetbrains-agent.jar`，把它放到你认为合适的文件夹内。
+- 2. 启动你的IDE，如果上来就需要注册，选择：试用（Evaluate for free）进入IDE
 ![](./images/1.png)
-3. 把下载好的拖动破解jar包解压 
+- 3. 把下载好的jar 拖到编辑器里面
 ![](./images/2.png)
-4. 弹出一个对话框 点击 restart
+- 4. 弹出一个对话框 点击 `restart`
 ![](./images/3.png)
-5. 选择离线安装
+- 5. 选择离线安装
 ![](./images/4.png)
 ![](./images/5.png)
-6.破解成功
+- 6.破解成功
 ![](./images/6.png)
 
 ### 3使用方法 (程序员破解):
