@@ -4,7 +4,11 @@
 >QQ技术交流①群 729987144
 >QQ技术交流②群 272712006
 
-- 1.下载安装软件,去官网下载 http://www.jetbrains.com/products.html?fromMenu
+### 激活码
+
+>  2020-03-02更新 [https://545c.com/file/18744103-425923769](https://545c.com/file/18744103-425923769) 
+
+- 1.下载安装软件
 >- webStrom  2019.3.0(内部包含激活jar包) [https://545c.com/file/18744103-416966381](https://545c.com/file/18744103-416966381)
 >- phpStorm 2019.3(内部包含激活jar包) https://545c.com/file/18744103-416967176
 >- idea 2019.3(内部包含激活jar包) https://545c.com/file/18744103-416967427
