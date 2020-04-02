@@ -1,14 +1,12 @@
->虽然webStorm,phpStorm以及jetbrains系列的很好用,但是每隔一段时间就需要激活一下,这样太费劲了,今天军哥给大家推荐一个永久激活的办法
->此教程适用于jetbrains 的所有系列的软件
->简书 [https://www.jianshu.com/p/133af2e4fe3f](https://www.jianshu.com/p/133af2e4fe3f)
->QQ技术交流①群 729987144
->QQ技术交流②群 272712006
+>- 虽然webStorm,phpStorm以及jetbrains系列的很好用,但是每隔一段时间就需要激活一下,这样太费劲了,今天军哥给大家推荐一个永久激活的办法
+>- 此教程适用于jetbrains 的所有系列的软件
+>- 简书 [https://www.jianshu.com/p/133af2e4fe3f](https://www.jianshu.com/p/133af2e4fe3f)
+>- QQ技术交流①群 729987144
+>- QQ技术交流②群 272712006
 
 ### 激活码
 
-> - 2020-03-02更新 [https://545c.com/file/18744103-425923769](https://545c.com/file/18744103-425923769) 
->-  2020-03-06激活码 [https://545c.com/file/18744103-426681288](https://545c.com/file/18744103-426681288)
->- 2020-03-12激活码[https://545c.com/file/18744103-428602372](https://545c.com/file/18744103-428602372)
+> - 2020-04-02激活码 [https://545c.com/file/18744103-434539387](https://545c.com/file/18744103-434539387)
 - 1.下载安装软件
 >- webStrom  2019.3.0(内部包含激活jar包) [https://545c.com/file/18744103-416966381](https://545c.com/file/18744103-416966381)
 >- phpStorm 2019.3(内部包含激活jar包) https://545c.com/file/18744103-416967176
