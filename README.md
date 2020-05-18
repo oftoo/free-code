@@ -19,6 +19,7 @@
 >- idea 2020.1 https://545c.com/file/18744103-436257652
 >- webStrom 2020.1 https://545c.com/file/18744103-436258792
 >- pycharm 2020.1 https://545c.com/file/18744103-436262171
+>- phpStorm 2020.1 https://545c.com/file/18744103-437789470
 ### 1.永久激活(以win为例/mac方法一样)
 - 1.下载jar包
 - 2019.3.3(拖动破解 此破解包可以破解2019.3.3之前的) https://545c.com/file/18744103-424973548
@@ -27,20 +28,21 @@
 ### 2使用方法(傻瓜式破解)
 - 1. 先下载压缩包解压后得到`jetbrains-agent.jar`，把它放到你认为合适的文件夹内。
 - 2. 启动你的IDE，如果上来就需要注册，选择：试用（Evaluate for free）进入IDE
-![](./images/1.png)
+![](images/1.png)
 > 如果无法试用: 下载这个脚本 [https://545c.com/file/18744103-426684754](https://545c.com/file/18744103-426684754)
 - 3. 把下载好的jar 拖到编辑器里面
-![](./images/2.png)
+![](images/2.png)
 - 4. 弹出一个对话框 点击 `restart`
-![](./images/3.png)
+![](images/3.png)
 - 5. 选择离线安装
-![](./images/4.png)
-![](./images/5.png)
+![](images/4.png)
+![](images/5.png)
 - 6.破解成功
-![](./images/6.png)
+![](images/6.png)
 
 ## 给个支持微信
-![](images/wx1.png)
+![](https://upload-images.jianshu.io/upload_images/1433350-6471dd703849e978.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/1433350-06a46a9aa8105795.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 > QQ技术交流①群 729987144
 > QQ技术交流②群 272712006
