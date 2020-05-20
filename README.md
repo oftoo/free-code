@@ -6,10 +6,10 @@
 >- QQ技术交流③群 1093476453
 ### 激活码
 
->- 2020-05-12激活码https://545c.com/file/18744103-442885435
->- 2020-05-12激活码备用地址 https://o8.cn/VriRUR 密码：6eaf
 >- 2020-05-18激活码https://545c.com/file/18744103-443894283
 >- 2020-05-18激活码备用地址 https://o8.cn/NuSL8N 密码：nk6c
+>- 2020-05-20激活码https://545c.com/file/18744103-444246414
+>- 2020-05-20激活码备用地址 https://o8.cn/omUpDA 密码：55j9
 - 1.下载安装软件
 >- webStrom  2019.3.0(内部包含激活jar包) [https://545c.com/file/18744103-416966381](https://545c.com/file/18744103-416966381)
 >- phpStorm 2019.3(内部包含激活jar包) https://545c.com/file/18744103-416967176
@@ -22,11 +22,11 @@
 >- phpStorm 2020.1 https://545c.com/file/18744103-437789470
 ### 1.永久激活(以win为例/mac方法一样)
 - 1.下载jar包
-2019.3.4拖动破解 https://545c.com/file/18744103-435013312
-2020.1.1 拖拽破解 https://545c.com/file/18744103-436204254
-2020.1.1拖拽破解备用地址 https://t.cn/A6wLN8zx 密码：vz5f
+- 2019.3.4拖动破解 https://545c.com/file/18744103-435013312
+- 2020.1.1 拖拽破解 https://545c.com/file/18744103-436204254
+- 2020.1.1拖拽破解备用地址 https://t.cn/A6wLN8zx 密码：vz5f
 ### 2.使用方法:
--  1. 先下载压缩包解压后得到`jetbrains-agent.jar`，把它放到你认为合适的文件夹内。
+- 1. 先下载压缩包解压后得到`jetbrains-agent.jar`，把它放到你认为合适的文件夹内。
 - 2. 启动你的IDE，如果上来就需要注册，选择：试用（Evaluate for free）进入IDE
 ![](https://upload-images.jianshu.io/upload_images/1433350-602066df9a219afd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 - 3. 拖动jar 到编辑器里面
