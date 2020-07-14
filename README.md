@@ -28,6 +28,8 @@
 - 2020.1.1拖拽破解备用地址 https://t.cn/A6wLN8zx 密码：vz5f
 - 2020.1.2破解包 https://545c.com/file/18744103-447200776
 - 2020.1.2破解包备用地址 https://o8.cn/PxHQyq 密码：qpr2
+- 2020.1.3破解包 https://545c.com/file/18744103-453174746
+- 2020.1.3破解包备用地址https://www.90pan.com/b1989054 密码：12z1
 ### 2.使用方法:
 - 1. 先下载压缩包解压后得到`jetbrains-agent.jar`，把它放到你认为合适的文件夹内。
 - 2. 启动你的IDE，如果上来就需要注册，选择：试用（Evaluate for free）进入IDE
